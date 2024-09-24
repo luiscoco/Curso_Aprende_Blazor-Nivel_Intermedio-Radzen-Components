@@ -156,5 +156,18 @@ We set the new Razor Component name: **RadzenButtons.razor**
 }
 ```
 
+## 6. Modify the NavMenu.razor component and add a new NavLink
 
+Add a new NavLink in the NavMenu.razor component to navigate to the new component:
 
+```
+<div class="nav-item px-3">
+   <NavLink class="nav-link" href="radzen-buttons">
+       <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> RadzenButtons
+   </NavLink>
+</div>
+```
+
+## 7. Run the application to validate the result
+
+![image](https://github.com/user-attachments/assets/1149cf90-4b85-446a-a16d-4e16a2413a06)
