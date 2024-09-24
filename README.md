@@ -1,5 +1,7 @@
 # How to install Radzen Components in your Blazor Web Application
 
+**Note:** For more information about this sample visit this URL: https://blazor.radzen.com/get-started?theme=material3
+
 ## 1. Load the Nuget package 
 
 ![image](https://github.com/user-attachments/assets/9975d157-5973-4f5f-b2e8-313d0314c458)
@@ -44,3 +46,6 @@ This is the **App.razor** component including Radzen Components
 
 </html>
 ```
+
+
+3. 
