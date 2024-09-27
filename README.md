@@ -2,6 +2,8 @@
 
 **Note:** For more information about this sample visit this URL: https://blazor.radzen.com/get-started?theme=material3
 
+![image](https://github.com/user-attachments/assets/b6c353f3-fc02-49d7-8dcd-d99b454cd089)
+
 ## 1. Load the Nuget package 
 
 ![image](https://github.com/user-attachments/assets/9975d157-5973-4f5f-b2e8-313d0314c458)
